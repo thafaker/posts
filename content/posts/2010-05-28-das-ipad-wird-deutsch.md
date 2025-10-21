@@ -1,0 +1,26 @@
+---
+title: Das iPad wird deutsch
+slug: das-ipad-wird-deutsch
+date_published: 2010-05-28T12:19:02.000Z
+date_updated: 2018-08-22T09:38:22.000Z
+---
+
+[![200px-Apple_iPad_Event03](//picdump.thafaker.de/2010/05/200px-Apple_iPad_Event03.jpg)](http://picdump.thafaker.de/2010/05/200px-Apple_iPad_Event03.jpg)
+
+Heute ist es soweit, heute ist iPad-Tag. Apple Stores verkaufen seit 8 Uhr neues Multimedia-Tablet. [...] Wie geplant wird das Apple iPad seit heute früh auch in Deutschland  verkauft. Eigentlich war die internationale Markteinführung schon für Ende April geplant. Da Apple aber selbst in den USA mit Lieferproblemen zu kämpfen hatte, wurde der Start in Deutschland und weiteren Ländern kurzerhand um vier Wochen verschoben.
+
+Schon am frühen Morgen waren die ersten Käufer da, Das Apple iPad ist in sechs verschiedenen Versionen verfügbar. Das Gerät ist mit 16, 32 und 64 GB Speicherplatz erhältlich. Zudem gibt es einerseits eine Variante, bei der der Internet-Zugang nur über WLAN-Hotspots hergestellt werden kann. Eine zweite Version verfügt darüber hinaus über ein Mobilfunk-Modul, so dass der Online-Zugang auch über GPRS, EDGE, UMTS und HSDPA möglich ist.
+
+In der Kritik stand Apple bislang unter anderem aufgrund des Einsatzes der Micro-SIM anstelle der ansonsten gebräuchlichen Mini-SIM-Karte. Die Mobilfunk-Netzbetreiber und einige Discounter haben sich allerdings auf den iPad-Start vorbereitet. So bieten die Deutsche Telekom, Vodafone, E-Plus, o2, mobilcom-debitel, simyo, Blau und Fonic bereits die neuen Betreiberkarten an.
+
+Weiterer Kritikpunkt ist der Verzicht auf Flash-Unterstützung. Apple setzt dagegen auf den HTML5-Standard für Multimedia-Inhalte. Amerikanische Verlage haben schnell reagiert und ihre Online-Inhalte entsprechend angepasst. Auch deutsche Anbieter haben spezielle iPad-Versionen ihrer Web-Auftritte angekündigt oder bereits gestartet. [>> teltarif.de](http://www.teltarif.de/ipad-verkaufsstart-deutschland-apple/news/38908.html)
+
+Faszinierend ist wieder mal der Hype, welcher sich um ein neues Produkt aus dem Hause Apple bildet. Apple hat mal wieder ein Gerät und einen Markt erschaffen um Bedürfnisse zu befriedigen, die vorher gar nicht bestanden. Das ist Wahnsinn und hat Apple bisher schon öfter vollführt. Heute stehen Menschenschlangen seit den frühen Morgenstunden vor den Apple Stores in Deutschland, um eins der begehrten Geräte zu erhaschen. Undglaublich, gab es sowas doch früher nur beim neuesten Aldi-Computer. Dort aber, wegen des Preises und nicht, weil es sich um eine völlig neue Generation Technik handelte.
+
+[![250px-WeTab](//picdump.thafaker.de/2010/05/250px-WeTab.png)](http://picdump.thafaker.de/2010/05/250px-WeTab.png)
+
+Ich persönlich werde mir kein iPad kaufen, weil sich der hohe Preis und das schlicht nichtvorhandene Einsatzgebiet in keinster Weise rentieren. Ein Tablet an sich ist allerdings eine gute Sache, wie zum Beispiel das [WePad](__GHOST_URL__/26/und-es-geht-doch-das-wepad-arbeitet) (was jetzt WeTab heißt) von der deutschen Firma WeTab GmbH. Da steckt nämlich auch ein richtiger Computer drin der durch ein angepasstes Linux angetrieben wird. Beim iPad stört mich schlicht der geringe Funktionsumfang der mir, genau wie beim iPhone, vorgegeben wird. Ich kann damit nicht rumspielen. Ich kann nur nutzen, was ich eh schon auf dem iPhone habe. Das iPhone finde ich cool, hätte ich keins, würde mich vielleicht auch ein iPad interessieren weil es ja was neues wäre. Aber so? Nee.
+
+Ich bin eben kein mündiger Nutzer eines -von der größe her schon richtigen- Computers, sondern ich benutze einen zu großen iPod mit App Store Anbindung. Das ist alles. Sicher wird der Trend in die Richtung gehen, dass Leute gern so einfach wie möglich zu handhabende technische Geräte möchten. Ein Gerät, was eben Internet, eMail, Photos oder auch Musik und Videos in denkbar einfachster Art und Weise und vorallem ohne jedem technisch verlangten Know How für jedermann nutzbar auf den Bildschirm bringt. Einschalten - loselegen. Das kann das iPad. Man kann es einfach im Wohnzimmer auf dem Tisch liegen lassen um bei Quiz-Sendungen die Antwort in der Wikipedia nachzuschlagen. Oder um das aktuelle Fernsehprogramm zu lesen, weil die aktuelle Fernsehzeitung nicht beilag. Auch kann man spielend leicht eine eMail versenden oder chatten. Man kann es auch als Alternative zum Notebook für schnelles *Onlinegehen* mit sich herum tragen, leichter als die meisten Notebooks ist es allemal. Auch erwacht es bedeutend schneller aus dem Standby, im Gegensatz zu einem Computer ist es viel schneller einsatzbereit. Der AKKU hält auch ewig und das Gerät ist wunderbar pflegeleicht. Aber wie schon erwähnt, mir ist das einfach zu wenig, der Weg ist mir persönlich zu sehr vorgeschrieben und deshalb bleibt meine Aussage: kein iPad für mich, denn für all die Aufgaben reicht mir mein iPhone. Und sonst habe ich einen richtigen Computer.
+
+[**Nachtrag**] Sven Kaulfuß, seines Zeichens Chefredaktuer vom Cyberbloc, hat einen [Artikel über Apple (archiviert)](http://web.archive.org/web/20100530125602/http://www.cyberbloc.de:80/index.php?/site/v3_comments/kommentar_zu_apple_der_hype_frisst_seine_kinder/) und Ihr aktuelles Selbst geschrieben, der mir aus der Seele spricht.

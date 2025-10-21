@@ -1,0 +1,12 @@
+---
+title: [Gerüchte] OLED-Display im neuen iPhone werde wahrscheinlicher
+slug: geruchte-oled-display-im-neuen-iphone-werde-wahrscheinlicher
+date_published: 2012-04-09T09:20:44.000Z
+date_updated: 2018-08-22T09:38:11.000Z
+---
+
+![iPhone-5-Gerüchte](//picdump.thafaker.de/2012/04/iPhone-5-Gerüchte-125x125.jpg)Neulich erst erreichten uns Gerüchte aus China, die eine Veröffentlichung des nächsten [Apple Smartphones für Juni](__GHOST_URL__/geruchte-iphone-5-bereits-im-juni/) anpriesen. Nun meldet sich ein bei Samsung beschäftigter Informant bei der Zeitschrift “The Korea Times” zu Wort, und behauptet dort, Apple werde demnächst OLED-Displays im neuen iPhone verbauen. (("Thanks to the increased volume, chances have been raised to ship Samsung’s OLEDs for Apple’s iPads and even iPhones, said unnamed Samsung executives on the condition of anonymity.")) Der Focus betitelt die Korea Times als gewöhnlich gut informiert, sodass auch die Begründung des Informanten nicht unschlüssig scheint: Es heißt, Samsung kümmere sich nun verstärkt um die Erweiterung der Produktion von OLED-Displays, um Apples große Auftragsvolumina demnächst liefern zu können. (([http://www.koreatimes.co.kr/www/news/tech/2012/04/133_108178.html](http://www.koreatimes.co.kr/www/news/tech/2012/04/133_108178.html)))
+
+OLED ((Organic Light Emitting Diode)) -Displays unterscheiden sich von den typischen LCDs, dass sowohl die Strom- als auch die Leuchtdichte geringer ist, womit sie sich prinzipiell günstiger herstellen lassen. Leider ist bei OLED-Display auch die Lebenserwartung geringer. Eine ganz innovative Eigenschaft ist jedoch, dass es sich aufgrund der Materialeigenschaften dazu eigenen würde, **biegsame Displays zu erstellen, oder als digitales Papier zu fungieren**. Weiterhin verspricht das organische Display bessere, leuchtendere Farben und viele Menschen emfpinden ein OLED Display angenehmer als das Retina Display der iPhone 4(s).
+
+Wenn man nicht nur auf den Informanten hört, sondern sich auch mal die Zahlen von Samsung ansieht, wirkt eine Kooperation gar nicht so weit hergeholt. Samsung verbuchte im letzten Jahr einen Umsatz von 40 Milliarden Dollar, wovon 7,8 Milliarden auf Apple zurück gehen. Dieses Jahr sollen es 11 Milliarden werden. Es könnte also durchaus sein, dass Apple hier bei seinen Bestellungen auf einen weiteren Riesen in der Branche setzt, **die Produkte für gewöhnlich auch günstiger anbieten können**.

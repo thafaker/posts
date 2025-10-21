@@ -1,0 +1,53 @@
+---
+title: Der legendäre MacPro Käsereibe
+slug: der-legendare-macpro-kasereibe
+date_published: 2019-02-03T20:06:00.000Z
+date_updated: 2021-01-26T10:31:24.000Z
+tags: macpro, bigmac, apple, upgrade
+---
+
+**Ich** bin ganz schön stolz, muss ich sagen. Denn als Computer-Freund, Bastel-Fred und **biertrinkender***Hellraiser* war und ist der **Mac Pro** einer der schönsten, imposantesten und unerschwinglichsten Apple Computer die ich kenne.
+
+Er ist sozusagen der *Heilige Gral* der Mac Welt. Und hier spreche ich tatsächlich von der alten "Käsereibe", jenem Mac Pro der als Nachfolger des Powermac G5 nur minimale Veränderungen erfuhr und sich im Design von 2004 bis 2013 durchgängig behauptete. 2013 kam dann der MacPro6,1 bezeichnete, landläufig aber *Trash Can* getaufte, schwarze runde Nachfolger des Mac Pro, der bei weitem nicht so beliebt ist wie sein langhähriger Vorgänger (über den [MacPro 2013 berichte ich hier](__GHOST_URL__/tag/trashcan/)). Mit diesem Artikel starte ich eine ganze Reihe von **Artikeln** ([Link](__GHOST_URL__/tag/bigmac/)) zu meinem MacPro, wie ich ihn aufrüste und was ich sonst noch alles so damit anstelle. Seid gespannt. 
+
+![Mein MacPro wurde gerade geliefert und muss sich aufwärmen.](__GHOST_URL__/assets/2019/02/delivery.jpg)Mein MacPro wurde gerade geliefert und muss sich aufwärmen.
+
+Zwar kam der neue MacPro damals ziemlich brachial daher, mit zwei 6GB-Grafikkarten, Terabyteweise-SSD-Platten direkt am PCI-Express angeschlossen und mit seinem futuristischen Design - jedoch hatte er nichts mehr mit dem eigentlichen Mac Pro zu tun. Denn Apple verfolgte mit dem neuen MacPro konosequent den Weg der Unaufrüstbarkeit. So wie das bei den iMacs ab 2012 und bei neuen Macbooks ebenso der Fall ist. Alles ist fest verlötet, selbst Arbeitsspeicher oder die Festplatten, man kann kaum noch etwas selbstständig erweitern.
+
+![MacPro 6,1 in der Version ab 2013 - Trashcan](__GHOST_URL__/assets/2019/02/macpro-trashcan.jpg)MacPro 6,1 in der Version ab 2013 - Trashcan
+
+Und deshalb kommt hier der **Mac Pro 5,1** ins Spiel, also die Käsereibe, denn diese hat ganz normale PCIE-Slots über die man Erweiterungskarten einbauen kann. Weiterhin hat sie 4 + 2 Sata2-Anschlüsse für Festplatten (oder SSDs) sowie 4 oder 8 RAM-Steckplätze, sodass dieser Mac Pro auf 128 GB Ram aktualisiert werden könnte. Und das zu kleinen Preisen. Denn 32 GB Speicher kosten derzeit um die 80€, DDR3-ECC-Ram mit 1333 MHz, das ist spottbillig. Westmere XEON CPUs mit 6 Kernen kosten auch kaum noch Geld sodass man, wenn man über einen DUAL-Prozessor MacPro verfügt mal eben 12 echte Kerne verbauen kann, mit maxima 3,46 GHz. Diese Leistung ist enorm. Gepaart mit einer PCIE-NVME-SSD hebt dieser Mac Pro ab und fliegt davon, man kann ihn fast auf das Niveau eines iMacPro bringen… für einen Bruchteil des Geldes.
+
+![Der MacPro ist nahezu sexy, innerlich. Das betrifft den Aufbau.](__GHOST_URL__/assets/2019/02/updating.jpg)Der MacPro ist nahezu sexy, innerlich. Das betrifft den Aufbau.
+
+Und für neue Features wie HandsOff [[1]](#fn1) kann man auch ganz einfach sorgen, hier muss die Hardware von Bluetooth und WLan aktualisiert werden und sogleich verfügt der MacPro sogar über diese aktuellen Features. Das alles funktioniert. Für kleines Geld. Wenn man in den Besitz eines Mac Pros kommt. Ich kann den Versuch nur empfehlen.
+
+Und wenn jetzt jemand auf die Idee kommt und die alten Anschlüsse bemängelt - denn es stimmt, bei USB 2.0 ist hier Schluss - dem sei gesagt dass man auch USB 3 [[2]](#fn2) mitsamt der USB-C-Anschluss-Art [[3]](#fn3) via PCIE-Karte [[4]](#fn4) nachrüsten kann. Lediglich Thunderbolt kann man nicht so einfach nachrüsten, da diese Technik anders funktionert. Apple nutzt nämlich für sein Thunderbolt USB-C.
+
+Aber mal ganz ehrlich, ich habe keine Thunderbolt-Geräte. Ich brauche auch keine. Bei einem MacBook müsste ich vielleicht große Festplatten via Thunderbolt anschließen, aber in meinen Mac Pro kann ich diese einfach einbauen. Das dauert 30 Sekunden.
+
+![Mein MacPro 5,1 mit einem 30-Zoll Apple Cinema Display.](__GHOST_URL__/assets/2019/02/cinema2.jpg)Mein MacPro 5,1 mit einem 30-Zoll Apple Cinema Display.
+
+Ich habe noch eine LacIe Firewire 800 (Raid0) Festplatte. Diese kann ich an dem MacPro sogar anschließen.
+
+Und ich liebe Firewire. Ich finde auch die Technik hinter Thunderbolt großartig. Aber aus irgendeinem Grunde ist Firewire nicht sonderlich populär geworden, zu teuer in der Lizensierungspraktik, ich weiß es nicht… hoffentlich geht Thunderbolt nicht so einen ähnlichen Weg.
+
+![Zwei Thunderbolt-2-Anschlüsse an einem Apple MacBook Pro 2018](__GHOST_URL__/assets/2019/02/tb.png)Zwei Thunderbolt-2-Anschlüsse an einem Apple MacBook Pro 2018
+
+---
+
+**Artikelbild**: Photo by [Przemyslaw](https://unsplash.com/photos/vnCxhLnaxS8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) Marczynski on Unsplash.
+
+---
+
+1. 
+Mit *Handoff* können Sie eine Aktivität auf einem Gerät (Mac, iOS oder Apple Watch) beginnen und dann auf einem anderen Gerät genau dort fortsetzen, wo Sie aufgehört haben. Sie können beispielsweise auf dem iPhone eine Webseite lesen und die Lektüre dann mit Safari auf Ihrem Mac fortsetzen. ([Link](https://support.apple.com/kb/PH25169?locale=de_DE)) [↩︎](#fnref1)
+
+2. 
+USB 3.1 GEN 2 geht wohl auch per PCI-Express Steckkarte. [↩︎](#fnref2)
+
+3. 
+USB-C beschreibt einen Anschluss, nicht ein Protokoll. Das dahinterliegende Protokoll spricht bei Apple z.B. meistens Thunderbolt bei den Macbooks Pro, darin eingepackt ist auch USB 3.1 und Displayport etc., es gibt aber auch USB-C Anschlüsse, die kein Thunderbolt, also kein Bild übertragen können, aber dennoch den identischen Anhscluss verwenden. Das Piktogram zeigt dann eben keinen Blitz. Es bleibt verwirrend! [↩︎](#fnref3)
+
+4. 
+Vgl. folgende Link auf [Heise](https://www.heise.de/mac-and-i/meldung/Aukey-Alter-Tower-Mac-Pro-wird-USB-C-faehig-3596683.html)[↩︎](#fnref4)

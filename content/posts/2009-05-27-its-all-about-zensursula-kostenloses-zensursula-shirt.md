@@ -1,0 +1,10 @@
+---
+title: It's all about Zensursula (Kostenloses Zensursula Shirt)
+slug: its-all-about-zensursula-kostenloses-zensursula-shirt
+date_published: 2009-05-27T12:53:45.000Z
+date_updated: 2018-08-22T09:39:19.000Z
+---
+
+» Als Ursula von der Leyen ankündigte, etwas gegen Kinderpornos im Netz unternehmen zu wollen, waren wir auch alle mehr als einverstanden. Das Gesetz, welches nun dabei rausgekommen ist, kann einen allerdings schon zur Verzweiflung bringen: Entstanden i[![janprofan_zensursula](//picdump.thafaker.de/2009/05/janprofan_zensursula-300x225.jpg)](http://picdump.thafaker.de/2009/05/janprofan_zensursula.jpg)st eine Regelung, die unter der Beteuerung, man wolle die Verbreitung von Kinderpornos im Netz verhindern, alle rechtlichen Weichen stellt, um dem deutschen Internetnutzer auch Zugriff auf Seiten anderen Inhalts zu verbieten. Da bleibt nur noch die Frage, welcher Lobby gegenüber die Bundesregierung zuerst einknickt, um über die geschaffene Zensurinfrastruktur die Bewegungsfreiheit im Netz weiter einzuschränken. Da ist es ja fast beruhigend, dass die eingebaute Sperre sowieso ohne Weiteres über alternative DNS-Server zu umgehen ist. Stellt sich nur noch die Frage, warum die Sperrliste nicht von der Öffentlichkeit einsehbar ist, und warum nicht viel lieber die Grundlagen für eine angemessene Strafverfolgung im Internet geschaffen werden. Ignoranz trifft Inkompetenz, und das auf Bundesebene. Da fällt es wirklich schwer sachlich zu bleiben. [**3Dsupply** (archiviert)](http://web.archive.org/web/20090427071248/http://www.3dsupply.de:80/shop/detail.php?PID=00004857) verschenkt ab sofort in Zusammenarbeit mit dem [**Foebud e.V.**](http://www.foebud.org/) (*setzt sich seit 1987 für Bürgerrechte und Datenschutz ein*) das Shirt "*Zensursula*". Lediglich die *Versandkosten* von *6,90* werden fällig, wenn ihr ausser dem Shirt Nichts dazubestellt. Ab 10 Euro Bestellwert werden nur noch 2,50 Versandkosten abgeknöpft. Die Aktion ist beschränkt auf ein Shirt pro Bestellung. «
+
+([via](http://www.commenz.com/index.php?showcommentsid&amp;commenzid=3360))

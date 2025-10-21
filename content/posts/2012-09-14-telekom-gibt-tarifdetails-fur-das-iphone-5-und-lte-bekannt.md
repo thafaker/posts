@@ -1,0 +1,12 @@
+---
+title: Telekom gibt Tarifdetails für das iPhone 5 und LTE bekannt
+slug: telekom-gibt-tarifdetails-fur-das-iphone-5-und-lte-bekannt
+date_published: 2012-09-14T07:38:56.000Z
+date_updated: 2018-08-22T09:39:14.000Z
+---
+
+Die Telekom wird, wie wir gestern schon [berichteten](__GHOST_URL__/lte-freuden-des-neuen-phone-5-leider-nur-bei-der-telekom-nutzbar/), als einziger Anbieter LTE mit dem neuen iPhone anbieten, da diese die 1800 MHz Frequenzen verwenden können beziehungsweise dürfen. Wie man [hier](http://stadt-bremerhaven.de/telekom-gibt-neue-tarife-mit-lte-bekannt/) berichtet, hat die Telekom nun die Tarifdetails für das neue iPhone und LTE bekannt gegeben. Der günstigste Tarif wird demnach der "Complete Mobile S" für monatliche 29,95 Euro sein, der Handypreis ist hierbei noch nicht mit inbegriffen. Kommt ein subventioniertes Handy dazu erhöht sich der Preis um zehn Euro. Die Standard LET Pakete bieten jedoch "nur" eine Geschwindigkeit von 21,6 MBit/s, will man mit 100 MBit/s ins Netz werden nochmal 9,95 für die Speed-Option fällig. Die Speed-Option ist mit jedem Tarif, ob S, M, L oder XL möglich. Die Tarife unterscheiden sich lediglich in den Zusatzleistungen. Die Option ist für S und M Tarife jedoch leider mit einem Datenvolumen von 300 Megabyte verbunden, während die höheren Tarife 1 Gigabyte oder 2 Gigabyte haben.
+
+[![](//picdump.thafaker.de/2012/09/tleekomlte-580x437.png)](__GHOST_URL__/telekom-gibt-tarifdetails-fur-das-iphone-5-und-lte-bekannt/tleekomlte/)
+
+Aufgrund dessen, dass der LTE-Ausbau der Telekom jedoch noch ziemlich rar ist - bis Ende des Jahres wird LTE 1800 in gerade mal rund 100 Städten zur [Verfügung (archiviert)](http://web.archive.org/web/20120909211727/http://www.telekom.de:80/is-bin/INTERSHOP.enfinity/WFS/EKI-TELEKOM-Site/de_DE/-/EUR/ViewCategoryTheme-Start?KeywordPath=katalog%2Ffuer-privatkunden%2Faktuelles%2Flte) stehen - wird ein grenzenloser Surfspaß ersteinmal nicht möglich sein. Vodafone hat dies bereits bei  '[Twitter (archiviert)](http://web.archive.org/web/20211227043820/https://twitter.com/vodafone_de/status/246000227524411392)' kommentiert:  Mobilität endet damit fuer Nutzer an Stadtgrenze. Jedoch können wir in Deutschland froh sein, dass uns überhaupt LTE beim iPhone 5 zur Verfügung steht. In Österreich wird man laut "der Standard.at" beim iPhone 5 ohne LTE auskommen müssen. Frequenzbeschränkungen verhindern eine Nutzung, da 1800 MHz nur für 2G und 3G verwendet werden darf.

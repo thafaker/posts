@@ -1,0 +1,12 @@
+---
+title: Erste Betaversion von RHEL 6
+slug: erste-betaversion-von-rhel-6
+date_published: 2010-04-25T22:45:40.000Z
+date_updated: 2018-08-22T09:38:22.000Z
+---
+
+[![o_rhel](//picdump.thafaker.de/2010/04/o_rhel.jpg)](http://picdump.thafaker.de/2010/04/o_rhel.jpg)Uih, *endlich*. Da ich ja auf meinem kleinen [Dual Pentium III Server](__GHOST_URL__/01/langweilig) im Flur als Betriebssystem -freiwillig und aus Hobbyspaß- **CentOS 5.4** nutze und mir das sehr gut gefällt, höre ich natürlich immer gern auch Neuigkeiten von **Red Hat Enterprise Linux**. Denn CentOS ist ein komplett kostenloser Klon des kommerziellen RHEL, gebastelt aus den Sourcen. Wenn sich nun also endlich eine neue Version von RHEL ankündigt, ist ein kurz darauf veröffentlichtes CentOS in selber Version, nur ohne Kommerz, nicht weit. Jetzt gibt es die erste Beta von RHEL 6 und [Pro-Linux.de](http://www.pro-linux.de/news/1/15582/erste-betaversion-von-rhel-6-vorgestellt.html) berichtet darüber.
+
+[...] [Red Hat Enterprise Linux](http://www.redhat.com/rhel/) richtet sich an Unternehmen und kommt in verschiedenen Varianten vom  Unternehmensserver bis zu speziellen Anwendungs-Servern. Durch lange  Veröffentlichungszyklen sollen die Kunden vermeiden können, ständig  Updates einspielen zu müssen, und Hardware-Hersteller die Chance  bekommen, ihre Produkte für Red Hat Enterprise Linux zu zertifizieren. Die  [neueste  Generation](http://press.redhat.com/2010/04/21/red-hat-enterprise-linux-6-beta-available-today-for-public-download/) der Unternehmensdistribution weist neben den  obligatorischen Paketupdates, die neben dem [Kernel 2.6.32](http://www.pro-linux.de/news/1/15031/linux-kernel-2632-freigegeben.html), [Gnome 2.28](http://www.pro-linux.de/news/1/14737/gnome-228-freigegeben.html) und [KDE 4.3](http://www.pro-linux.de/news/1/14533/kde-43-freigegeben.html) auch diverse  andere Desktop-Anwendungen beinhalten, zahlreiche weitere Neuerungen  auf.
+
+So wurde die Energieverwaltung weiter verbessert. Unter anderem  nutzt die Distribution nun den »tickless« Kernel und Verbesserungen in  den Anwendungen, die zu weniger Wachzyklen der CPUs führen sollen.  Darüber hinaus verspricht der Hersteller eine gesteigerte  Geschwindigkeit, die unter anderem durch den Einsatz des Completely Fair  Schedulers (CFS)  und durch optimierte Sperren des Kernels erreicht  werden soll. [...] ***[Read the rest](http://www.pro-linux.de/news/1/15582/erste-betaversion-von-rhel-6-vorgestellt.html)***

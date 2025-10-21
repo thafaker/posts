@@ -1,0 +1,22 @@
+# admin/config.yml erstellen
+cat > admin/config.yml << 'EOF'
+backend:
+  name: github
+  repo: thafaker/thafaker.github.io  # ← Hier deinen GitHub Username/Repo eintragen
+  branch: main
+
+media_folder: "static/images"
+public_folder: "/images"
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+EOF

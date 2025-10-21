@@ -1,0 +1,10 @@
+---
+title: EI WANNA BEEEEEE .... ANARKEEE
+slug: ei-wanna-beeeeee-anarkeee
+date_published: 2011-02-05T22:07:20.000Z
+date_updated: 2024-01-21T15:42:14.000Z
+draft: true
+---
+
+Er wälzt sich herum, betrachtet seinen Oberarm und zählt die Zuckungen die selbiger vollführt. Muskelzucken ist immer etwas sehr fieses, aber im Oberarm an dieser Stelle... wenigstens kann man sie anfassen. Manchmal sind Muskelzuckungen ja bekannt dafür, an Stellen zu zucken die man irgendwie nicht erreichen kann oder vielleicht... immer wenn man will es gerade nicht mehr zuckt. Aber wie dem auch sei, diese kamen nicht von ungefährt. Zumindest bildete er sich das ein. Der Grund war seiner Meinung nach nicht etwa zu wenig Schlaf oder zu viel Stress, nein, es lag an dem Bewusstsein in ihm, bereits seit sieben Stunden keine Zigarette mehr geraucht zu haben. Und mit diesem Bewusstsein unweigerlich verknüpft auch die Gewissheit, dass da auch keine mehr kommen wird. Nie wieder. Ein harter Gedanke. Und weil selbst ihm dieser Gedanke so grässlich vorkam, implizierte er natürlich auch das Muskelzucken im Arm, welches er nun schon 45 Minuten lang betrachtet hatte. 45 Minuten in denen er locker hätte zehn Zigaretten der letzten Stunden [![1-2-3-4-5](//picdump.thafaker.de/2011/02/1-2-3-4-5-150x150.jpg)](http://picdump.thafaker.de/2011/02/1-2-3-4-5.jpg)nachrauchen können - wenn er denn nicht auch sein Ego in Bedrängnis gesehen hätte. Man sagt "es ist Schluss" - und dann ist es das! Fertig, Ende, aus! Da kann man nicht einfach noch 10 Tage oder 34 Jahre lang rum meiern und weiter rauchen. Da muss direkt.. und nun auf einmal war das Zucken im Oberarm weg. Wie entspannend. Aber jetzt kam der Gedanke an eine Zigarette wieder stärker zu Bewusstsein und er dachte gerade, wie er unbeschwert eine ganze Schachtel, einfach so, ohne Hast, ohne Zwang, würde wegrauchen können... denn rauchen war für Ihn Passion, etwas besonderes, Schönheit, Leidenschaft, Lebenslust, James Dean und Johnny Cash, Musik... an all die schönen Momente des Rauchens denkt er gerade, während das rechte Lied des Auges zu Zucken beginnt...
+`**Artikelbild**: Kate Moss raucht Drogen, dies kritisiert die Gesellschaft`

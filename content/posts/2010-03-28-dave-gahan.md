@@ -1,0 +1,16 @@
+---
+title: Dave Gahan wird erneut Mutter [Update]
+slug: dave-gahan
+date_published: 2010-03-28T10:44:58.000Z
+date_updated: 2018-08-22T09:38:24.000Z
+---
+
+[![](//thafaker.de/wp-content/uploads/2010/03/davegahan-160x1-thumb.jpg)](http://thafaker.de/wp-content/uploads/2010/03/davegahan-160x1.jpg)Dave Gahan hat am vergangenen Mittwoch in New York James Nicholas Rogers-Gahan, den Sohn seiner Ehrefrau Jennifer Sklias-Gahan, offiziell adoptiert. Dies teilte die Band auf ihrer Homepage mit. Dave ist mit Jennifer seit elf Jahren verheiratet und hat mit ihr die gemeinsame Tochter Stella Rose. Aus seiner ersten Ehe mit Joanne Fox stammt Daves Sohn Jack.
+
+([via](http://www.depechemode.de/news/2010/03/28/dave-gahan-adoptiert-offiziell-sohn-seiner-frau-jennifer-2689/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+depechemode+%28Depeche+Mode+News%29))
+
+Doch Halt! Wer ist **Dave Gahan** und warum ist diese Meldung wichtig? Herr Gahan ist der Sänger und Frontmann der englischen Synthiepop-Band **Depeche Mode**. Depeche Mode gilt mit weltweit über 100 Millionen verkauften Tonträgern als eine der erfolg- und einflussreichsten Bands der Welt. Natürlich geht es nicht umhin, als *Rampensau* ((Allgemeiner Begriff für Frontschweine)) einer so erfolgreichen Band auch Milliarden Groupies zu besitzen und zum gefragten Star zu werden, dessen Privatleben nicht mehr privat sein soll (die Fans wollen immer alles wissen) und natürlich hat man auch Probleme mit all den anderen Unannehmlichkeiten eines im Rampenlicht stehenden Rockstars und Millionärs. Weiterhin ist das Leben des Herrn Gahan zuweilen auch nicht immer so familiär und geradlinig verlaufen, sondern führte zwischenzeitlich durch Drogen und Exzesse fast zum Tode und entsprechender, geläuterter Wiederauferstehung, wie so üblich. Bereits in den frühen 90er-Jahren gab sich Gahan zunehmend Drogen hin, er wurde Heroin- und Kokain-abhängig. Nach der kräftezehrenden **Songs of Faith and Devotion**-Tour 1993/94 (insgesamt 174 Konzerte in 14 Monaten) wuchsen die Spannungen innerhalb der Band. Gahan rutschte immer tiefer in den Drogensumpf. Überfordert von den Problemen, verließ ihn seine zweite Frau Theresa Conway, die er 1992 geheiratet hatte.
+
+[![Dave_Gahan_WC](//thafaker.de/wp-content/uploads/2010/03/Dave_Gahan_WC.jpg)](http://thafaker.de/wp-content/uploads/2010/03/Dave_Gahan_WC.jpg)Nach einem Suizid-Versuch am 17. August 1995 (er schnitt sich die Pulsadern auf) wurde er in eine Entzugsklinik eingewiesen. Doch dort konnte ihm nicht geholfen werden, bereits nach wenigen Tagen wurde er wieder entlassen. Am 28. Mai 1996 spritzte er sich in einem Hotelzimmer einen Speedball, einen Cocktail aus Heroin und Kokain. Er war daraufhin für zwei Minuten klinisch tot, jedoch konnten ihn die Notärzte wiederbeleben. Erneut kam er in eine Entzugsklinik, diesmal auf gerichtliche Anordnung für neun Monate. Diesmal schaffte er den Ausstieg und ist seitdem nach eigener Aussage clean. Die Band setzte daraufhin die Aufnahmen zum nächsten Album Ultra fort, das bereits 1997 erschien. Auf eine Tour wurde allerdings zunächst noch verzichtet.
+
+Mitte Mai 2009 wurde die „Tour of the Universe“ unterbrochen, da Gahan nach offiziellen Angaben an einer Magen-Darm-Infektion litt. Kurz darauf musste er sich in New York der operativen Entfernung eines bösartigen Blasentumors unterziehen.

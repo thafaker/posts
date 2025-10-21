@@ -1,0 +1,46 @@
+---
+title: Abnehmen.com
+slug: abnehmen_com
+date_published: 2009-01-27T11:50:23.000Z
+date_updated: 2018-08-22T09:39:17.000Z
+---
+
+[[Trigami-Review](http://www.trigami.com?blog=http://thafaker.de)]
+
+[![abnehmencom](//picdump.thafaker.de/2009/01/abnehmencom.png)](http://www.abnehmen.com/)
+
+Wer kennt das nicht? Wieder naht das Frühjahr und die folgende Badesaison und wieder stellt man mit erschrecken die Sünden aus der Vergangenheit an den Hüften und anderen Körperstellen fest. Nun ist guter  Rat teuer, denn diesmal möchte man bei seinem nächsten Besuch  im Freibad, der Allgemeinheit nicht schon wieder eine unappetitliche „Killerplauze" präsentieren.
+
+Wenn man dem [BZGA](http://www.bzga.de) glauben schenken darf, sind  70 Prozent der Männer und 50 Prozent der Frauen in Deutschland übergewichtig sowie jeder fünfte Deutsche fettsüchtig, was dann für manche Personen zu einem großen psychologischen Problem werden kann. Vor allem dann, wenn jegliche Diät oder *Abnehmtechnik* fehlschlägt und sich der Erfolg partout nicht einstellen möchte.
+
+In dem Fall finde ich es immer ratsam, sich an Gleichgesinnte bzw. an Personen die mit der gleichen Problematik zu kämpfen haben zu wenden und Erfahrungen auszutauschen. Am besten natürlich aus einer Kombination von Leidensgenossen und ehemals Betroffenen, welche einem mit Rat und Tat zur Seite stehen.
+
+Ein solche Plattform zum Thema gesunde Ernährung und Abnehmen mit großer Community von 100.000 Mitgliedern, stellt das Angebot [www.abnehmen.com](http://www.abnehmen.com) dar,  wo mir sofort positiv die einfache und  klare fachliche Strukturierung des Angebotes in die selbsterklärenden Rubriken „Motivation", „Abnehmen - Methoden", „Ernährung & Diät- Rezepte" sowie „Abnehmen in den Medien" und „Abnehmen.com Regional" auffiel. Hier scheint sich jemand ernsthaft mit der Thematik befasst zu haben.
+
+Egal ob man sich einfach nur informieren oder inspirieren lassen möchte, nach einem Abnehm-Plan sucht, auf www.abnehmen.com, wird man sicherlich fündig. Und wer dort direkt nicht fündig wird, kann sich unter der Rubrik „Abnehmen.com Regional" mit Anderen in der Region, über selbst initiierte Treffen verabreden.
+
+Ebenfalls überzeugt haben mich zum einen, die mehr als 3.000.000 Forenbeiträge, welche zum überwiegenden Teil von den Nutzern selbst stammen, die eben mit „Übergewicht"  zu kämpfen haben und sich hier mit ihren Erfahrungen, aber auch Anregungen z.B. für eine gesunde Ernährung regelmäßig austauschen und veröffentlichen und zum anderen die vielfältigen Motivationshilfen und Unterstützungen für das Erreichen seines persönliches Wunschgewichtes und zukünftigen Wohlbefindens, welche aber zum großen Teil erst nach erfolgter Registrierung des Nutzers zur Verfügung stehen.
+
+So bietet [www.abnehmen.com](http://www.abnehmen.com/) seinen Nutzern die Möglichkeit, ihre Erfolge bei der Gewichtsreduzierung in Form  von persönlichen Tagebüchern, Gewichtstabellen oder auch Bildergalerien, auf denen sie vor und nach einer Diät zusehen sind, zu veröffentlichen. Dies hat meines Erachtens einen wesentlichen positiven psychologischen Effekt auf das Erreichen persönlicher Ziele, insbesondere dann, wenn man in einer Phase des Zweifels und der Müdigkeit steckt. Schließlich nimmt es sich, um es mal ganz simpel auszudrücken, gemeinsam auch besser ab.
+
+Diäten und Techniken zur Gewichtsreduzierung gibt es wie Sand am Meer und jede dieser Methodiken wird von deren Schöpfern mit dem Versprechen einer schneller Reduzierung des überflüssigen Fettes als heiliger Gral propagiert, Was wirklich hinter diesen Diäten steckt, welchen Wert diese haben, was Techniken wie Fettabsaugung, Magenverkleinerung für Nutzen und Ergebnisse mit sich bringen, bekommt der Betroffene aus erster Hand, hier gemeint Erfahrungsberichten anderer Nutzer mitgeteilt.
+
+Wie heißt doch dieses Sprichwort? Nur in einem gesunden Körper wohnt ein gesunder Geist und trotz manch landläufiger Meinung, ist dies ohne eine entsprechende Ernährung nicht zu erreichen. Egal ob es sich um die Vollkornkost oder vegetarischer Ernährung handelt, unter der Rubrik „Ernährung und Diäten", erhält der Nutzer wesentliche Information rund um dieses Thema. Abgerundet wird das Ganze durch eine Auswahl leckerer Rezepte, welche durch die Betreiber und der Community selbst  zur Verfügung gestellt werden. Hier als wichtige Orientierung für die richtig Wahl und Menge der Lebens- und Genussmittel, die umfangreiche  Nährwert- und Kalorientabelle des Betreibers, wo der Nutzer des Angebots mittels Suchmaschine und Index, die entsprechenden Kalorien, Punkte und andere Werte für die jeweiligen Lebensmittel nachschlagen kann.
+
+Ein Feature der Seite ist, wie oben schon erwähnt die Gewichtstabelle zur Kontrolle des eigenen Erfolges. Hier erhält sowohl der Nutzer selbst, aber auch die anderen Mitglieder der Community, einen Überblick über die wichtigsten „Keys" wie BMI, Start-, Ziel- und aktuelles Gewicht  sowie Informationen zur eingesetzten Methode der Gewichtsreduzierung. Ganz witzig finde ich dabei auch den Gewichtsticker, welcher ähnlich wie das Pedant zu News, den Nutzer über die aktuellen Fortschritte informiert. Wesentlich hierbei zu erwähnen ist, dass der Ticker  frei konfigurierbar ist, d.h. der Nutzer hat zum einen die Möglichkeit den Hintergrund und Zeiger für den Ticker selbst zu bestimmen.
+
+Zum anderen kann der Nutzer auch selbst bestimmen, was der Ticker anzeigen soll oder nicht, d.h. z.B. das „Start-/Zielgewicht", „aktuelles Gewicht", „insgesamt abgenommen" oder „noch abzunehmende Kilos".  Das einzige was ich hierbei bemängeln würde, dass der  Nutzer sich nicht gleichzeitig „Start-/Zielgewicht", „aktuelles Gewicht", „insgesamt abgenommen"  oder „noch abzunehmende Kilos" anzeigen lassen kann. Hier muss der Nutzer dann selber rechnen.
+
+Äußerst praktisch, auch für jemanden mit einem normalen Gewicht wie mich, der Energiebedarfsrechner. Man hat hier die Möglichkeit seinen täglichen Energiebedarf und Umsatz in Abhängigkeit vom vorhandenen Gewicht und der ausführenden Tätigkeit ermitteln zu lassen und bekommt zudem hilfreiche Hinweise und Tipps zum Erreichen seines Wunschgewichtes.
+
+> Ich kam nicht drum herum aufgrund meiner Neugier, es mal zu testen und bekam für mein Gewicht von 62 Kilo und einem BMI von 22,50 mitgeteilt, dass mein derzeitiger Grundumsatz ca. 1.746 kcal, der Leistungsumsatz bei ca. 291 kcal und somit der gesamter Energiebedarf  bei ca. 2.037 kcal/Tag liegt und mein Optimalgewicht von 60 Kilo bei leichter sportlicher Tätigkeit in drei bzw. bei intensiven Fitnesstraining in einem Monat zu erreichen wäre.
+
+Allerdings würde ich bei dem Energiebedarfsplaner empfehlen, die  Erläuterungen zu den einzelnen Angaben die nun mal zu tätigen sind,  ausführlicher oder gar anders zu gestalten, da mir z.B. nicht von Anfang klar war, was ich in den einzelnen Feldern eintragen muss. Zudem beschränken sich die Eingaben ausschließlich auf die beruflichen Tätigkeiten und Schlaf. Freizeitaktivitäten sind komplett ausgeblendet. Merkwürdig  war für mich auch, wenn ich zum Beispiel bei meiner Arbeitszeit und beim täglichen Schlafkonsum  8h angebe, die Differenz zu den 24h auf die Schlafzeit gerechnet wurde. Das ist allerdings eher marginal zu beanstanden, denn alles im allen ist der Bedarfsplaner meiner Meinung nach sehr gelungen und werde diesen selbst für meine Ernährung häufiger nutzen.
+
+Besonders erwähnen möchte ich hier jedoch die Software „**IssWas**".  Diese Eigenkreation welche in der aktuellen Version 2.6 auf der Website [downloadbar (archiviert)](http://web.archive.org/web/20090130222433/http://www.abnehmen.com:80/portal.php?page=isswas) ist, stellt eine Software für die eigene Ernährungsplanung und Überwachung dar, welche zwar die Informationen für den Anwender statistisch aufbereitet, ihm jedoch in visueller verständlicher Form darstellt. Mit der Software „Isswas" gehören die Zeiten des lästigen aufschreiben von Kalorien endgültig der Vergangenheit an. Die Software automatisiert wie schon erwähnt diese Planung, überwacht diese und warnt den Nutzer aber auch, falls ein kritischer Wert erreicht ist.
+
+Unterlegt ist diese Software zudem mit einer Datenbank, welche mit über 10.000 Nahrungsmitteln, eine Rezeptverwaltung mit 50.000 Rezepten im Meal-Master Format aufwartet. Meiner Meinung nach verweist der Anbieter hierbei zu recht auf den Einsatz dieser Software in diversen Kur-Kliniken bei der Behandlung von Diabetikern beispielsweise.
+
+Mein Fazit, alles in allem ist www.abnehmen.com für mich ein sehr interessantes und aufgrund der Tatsache das wir nun mal in einer Überflussgesellschaft leben, wo man sich  weniger Gedanken um die Beschaffung, als vielmehr um die Bestandteile der Nahrung Sorgen machen muss, ein  zeitgegenwärtiges Format, welches insbesondere durch fachliche Kompetenz bei dem Themen „Ernährung" und „Übergewicht", der Moderation der Foren sowie der Betreuung der Community brilliert.
+
+Es werden dabei alle Bereiche dieser Thematik abdeckt bzw. durch weiterführende Informationen ergänzt und was für mich das wichtigste überhaupt ist, das ich von Anfang an das Gefühl hatte, es wirklich mit einer Community zu tun zu haben, den eines ist klar, trotz der hervorragenden Moderation lebt dieses Format von seinen Mitgliedern.
